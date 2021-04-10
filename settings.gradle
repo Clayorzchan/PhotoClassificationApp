@@ -1,0 +1,3 @@
+include ':multi-image-selector'
+include ':app'
+rootProject.name = "PhotoClassification"
